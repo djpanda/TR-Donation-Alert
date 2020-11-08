@@ -19,7 +19,7 @@ class NerdLoader{constructor(){this.resources={}}async load(assets=[]){const scr
         "https://ext-assets.streamlabs.com/users/140067/EasePack-3-5-1.min.js",
         "https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.1/lottie.min.js",
         "https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.0/howler.min.js",
-        { name: "alertSound", url: "https://uploads.twitchalerts.com/000/533/735/358/mech-tech-alert-4a.mp3" },
+        { name: "alertSound", url: "https://uploads.twitchalerts.com/000/533/735/358/mech-tech-alert-1a.mp3" },
         { name: "lottieData", url: "https://ext-assets.streamlabs.com/users/140067/mech-alert.json" }
       ]);
      
